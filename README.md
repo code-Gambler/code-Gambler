@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<p align="left">I am a passionate and innovative software developer with a keen interest in leveraging technology to solve real-world problems. Currently pursuing a degree in Computer Programming & Analysis at Seneca Polytechnic, I have a solid foundation in object-oriented programming principles and web development technologies. My experience spans from developing dynamic web applications to contributing to open-source projects.</p>
+<p align="left">I am a passionate and innovative software developer with a keen interest in leveraging technology to solve real-world problems. Currently pursuing an advanced diploma in Computer Programming & Analysis at Seneca Polytechnic, I have a solid foundation in object-oriented programming principles and web development technologies. My experience spans from developing dynamic web applications to contributing to open-source projects.</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
