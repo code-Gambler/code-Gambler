@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/code-Gambler/code-Gambler/master/wave.gif" width="30px" height="30px" />
 
-My name is Steven David Pillay and I'm a software developer/DevOps engineer. I'm from India, living in Canada. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]. I am a passionate and innovative software developer with a keen interest in leveraging technology to solve real-world problems. Currently pursuing an advanced diploma in Computer Programming & Analysis at Seneca Polytechnic, I have a solid foundation in object-oriented programming principles and web development technologies. My experience spans from developing dynamic web applications to contributing to open-source projects.
+My name is Steven David Pillay and I'm a software developer/DevOps engineer. I'm from India, living in Canada. You can find me on (LinkedIn)[3], or on (Twitter)[1]. I am a passionate and innovative software developer with a keen interest in leveraging technology to solve real-world problems. Currently pursuing an advanced diploma in Computer Programming & Analysis at Seneca Polytechnic, I have a solid foundation in object-oriented programming principles and web development technologies. My experience spans from developing dynamic web applications to contributing to open-source projects.
 
 ## 🔧 Technologies & Tools
 <p align="left"> 
@@ -54,18 +54,6 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=code-Gambler&repo=movie-recommender-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/code-Gambler/code-Gambler  /master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
