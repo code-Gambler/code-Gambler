@@ -10,7 +10,13 @@ My name is Steven David Pillay and I'm a software developer/DevOps engineer. I'm
 <p align="left"> 
    <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<!-- Dark mode and light mode icon handling -->
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./icon/aws.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40">
+  </picture>
+</a>
    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -61,24 +67,6 @@ A sample of my recent articles:
 [1]: https://x.com/code_Gambler
 [2]: https://github.com/code-Gambler
 [3]: https://www.linkedin.com/in/steven-pillay-08b7ab230/
-
-<script>
-  function updateIcon() {
-    const icon = document.getElementById('aws-icon');
-    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      icon.src = './icon/aws.svg';
-    } else {
-      icon.src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg';
-    }
-  }
-
-  // Initial check
-  updateIcon();
-
-  // Listen for changes in the color scheme
-  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', updateIcon);
-</script>
-
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
