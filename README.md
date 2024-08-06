@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/code-Gambler/code-Gambler/master/wave.gif" width="30px" height="30px" />
 
-My name is Steven David Pillay and I'm a software developer/DevOps engineer. I'm from India, living in Canada. You can find me on (LinkedIn)[3], or on (Twitter)[1]. I am a passionate and innovative software developer with a keen interest in leveraging technology to solve real-world problems. Currently pursuing an advanced diploma in Computer Programming & Analysis at Seneca Polytechnic, I have a solid foundation in object-oriented programming principles and web development technologies. My experience spans from developing dynamic web applications to contributing to open-source projects.
+My name is Steven David Pillay and I'm a software developer/DevOps engineer. I'm from India, living in Canada. You can find me on [LinkedIn](3), or on [Twitter](1). I have a keen interest in leveraging technology to solve real-world problems. Currently pursuing an advanced diploma in Computer Programming & Analysis at Seneca Polytechnic, I have a solid foundation in object-oriented programming principles and web development technologies. My experience spans from developing dynamic web applications to contributing to open-source projects.
 
 ## 🔧 Technologies & Tools
 <p align="left"> 
